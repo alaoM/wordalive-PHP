@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon5aaa.ttf?75efde85047d3f46426a611fdcdd31a1") format("truetype"),
+url("flaticon5aaa.woff?75efde85047d3f46426a611fdcdd31a1") format("woff"),
+url("flaticon5aaa.woff2?75efde85047d3f46426a611fdcdd31a1") format("woff2"),
+url("flaticon5aaa.eot?75efde85047d3f46426a611fdcdd31a1#iefix") format("embedded-opentype"),
+url("flaticon5aaa.svg?75efde85047d3f46426a611fdcdd31a1#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-ramadan:before {
+    content: "\f101";
+}
+.flaticon-quran:before {
+    content: "\f102";
+}
+.flaticon-islamic-pray:before {
+    content: "\f103";
+}
+.flaticon-quran-1:before {
+    content: "\f104";
+}
+.flaticon-islamic:before {
+    content: "\f105";
+}
+.flaticon-kaaba:before {
+    content: "\f106";
+}
+.flaticon-mosque:before {
+    content: "\f107";
+}
+.flaticon-halal:before {
+    content: "\f108";
+}
+.flaticon-islamic-1:before {
+    content: "\f109";
+}
+.flaticon-islamic-wudu:before {
+    content: "\f10a";
+}
+.flaticon-islamic-2:before {
+    content: "\f10b";
+}
+.flaticon-islamic-3:before {
+    content: "\f10c";
+}
+.flaticon-islam:before {
+    content: "\f10d";
+}
+.flaticon-islamic-4:before {
+    content: "\f10e";
+}
+.flaticon-islamic-new-year:before {
+    content: "\f10f";
+}
+.flaticon-islamic-new-year-1:before {
+    content: "\f110";
+}
+.flaticon-islamic-ramadan:before {
+    content: "\f111";
+}
+.flaticon-islamic-prayer:before {
+    content: "\f112";
+}
+.flaticon-islamic-new-year-2:before {
+    content: "\f113";
+}
+.flaticon-islamic-5:before {
+    content: "\f114";
+}
