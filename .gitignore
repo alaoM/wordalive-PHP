@@ -1,0 +1,10 @@
+## Wordaliv
+# Ignore custom .htaccess stuff.
+/.htaccess
+# Ignore some files and directories from the custom directory.
+/admin/assets/includes/cerd.php
+/admin/assets/img
+/admin/assets/vids
+/admin/vendor/config.php
+
+
